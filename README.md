@@ -1,4 +1,4 @@
-## Olá eu sou a Antonio Sena, trabalho com Front-end e adoro tecnologia!
+## Olá eu sou o Antonio Sena, trabalho com Front-end e adoro tecnologia!
 
 
 <div align="center">
